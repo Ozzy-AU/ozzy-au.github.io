@@ -1,0 +1,11 @@
+# --- Testnet SXC token ---
+[[ISSUERS]]
+address = "rLtCvgjMSFJpkf4S5f5qggLJrULEP5HTWn"   # Testnet issuer
+name    = "Hot Spots Entertainment (Testnet)"
+
+[[TOKENS]]
+issuer   = "rLtCvgjMSFJpkf4S5f5qggLJrULEP5HTWn"
+currency = "535843000000000000000000000000000000000000"   # hex-padded “SXC”
+name     = "SXC-TST"
+desc     = "360 000 000 test-minted SXC tokens"
+icon     = "https://raw.githubusercontent.com/Ozzy-AU/CXS/main/SXC%20Ticker%20Logo.png"
