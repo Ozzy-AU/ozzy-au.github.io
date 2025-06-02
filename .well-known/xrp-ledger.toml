@@ -3,9 +3,9 @@
 address = "rLtCvgjMSFJpkf4S5f5qggLJrULEP5HTWn"
 name    = "Hot Spots Entertainment (Testnet)"
 
-[[TOKENS]]
+[[CURRENCIES]]        # <── change TOKENS → CURRENCIES
 issuer   = "rLtCvgjMSFJpkf4S5f5qggLJrULEP5HTWn"
-currency = "5358430000000000000000000000000000000000"
+currency = "5358430000000000000000000000000000000000"   # 40 chars
 name     = "SXC-TST"
 desc     = "360 000 000 test-minted SXC tokens"
 icon     = "https://raw.githubusercontent.com/Ozzy-AU/CXS/main/SXC%20Ticker%20Logo.png"
