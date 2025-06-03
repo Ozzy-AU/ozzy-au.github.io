@@ -1,11 +1,13 @@
 # --- Testnet SXC token ---
+
+[[CURRENCIES]]
+code = "5358430000000000000000000000000000000000"
+issuer = "rLtCvgjMSFJpkf4S5f5qggLJrULEP5HTWn"
+name = "SXC-TST"
+desc = "360 000 000 test-minted SXC tokens"
+icon = "https://raw.githubusercontent.com/Ozzy-AU/CXS/main/SXC%20Ticker%20Logo.png"
+display_decimals = 6
+
 [[ISSUERS]]
 address = "rLtCvgjMSFJpkf4S5f5qggLJrULEP5HTWn"
-name    = "Hot Spots Entertainment (Testnet)"
-
-[[CURRENCIES]]        # <── change TOKENS → CURRENCIES
-issuer   = "rLtCvgjMSFJpkf4S5f5qggLJrULEP5HTWn"
-currency = "5358430000000000000000000000000000000000"   # 40 chars
-name     = "SXC-TST"
-desc     = "360 000 000 test-minted SXC tokens"
-icon     = "https://raw.githubusercontent.com/Ozzy-AU/CXS/main/SXC%20Ticker%20Logo.png"
+name = "Hot Spots Entertainment (Testnet)"
