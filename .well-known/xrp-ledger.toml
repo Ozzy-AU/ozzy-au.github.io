@@ -1,13 +1,24 @@
-# --- Testnet SXC token ---
+# --- Hot Spots Entertainment Mainnet Tokens ---
 
 [[CURRENCIES]]
-code = "5358430000000000000000000000000000000000"
-issuer = "rLtCvgjMSFJpkf4S5f5qggLJrULEP5HTWn"
-name = "SXC-TST"
-desc = "360 000 000 test-minted SXC tokens"
+code = "535843000000000000000000000000000000000000"
+issuer = "rfGDj9zLtwPCbU3MtUE37s99cM3eFDcGto"
+name = "SXC"
+desc = "369,000,000 SXC tokens - Hot Spots Entertainment"
 icon = "https://raw.githubusercontent.com/Ozzy-AU/CXS/main/SXC%20Ticker%20Logo.png"
 display_decimals = 6
 
+[[CURRENCIES]]
+code = "484F5453504F5400000000000000000000000000"
+issuer = "rnRk91HHgf87NcuMc18zJNhLo3MYdNZQra"
+name = "HOTSPOT"
+desc = "69,000,000 HOTSPOT tokens - Hot Spots Entertainment"
+display_decimals = 6
+
 [[ISSUERS]]
-address = "rLtCvgjMSFJpkf4S5f5qggLJrULEP5HTWn"
-name = "Hot Spots Entertainment (Testnet)"
+address = "rfGDj9zLtwPCbU3MtUE37s99cM3eFDcGto"
+name = "Hot Spots Entertainment - SXC"
+
+[[ISSUERS]]
+address = "rnRk91HHgf87NcuMc18zJNhLo3MYdNZQra"
+name = "Hot Spots Entertainment - HOTSPOT"
